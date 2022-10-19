@@ -1,0 +1,11 @@
+**/CMakeCache.txt
+**/CMakeFiles
+**/cmake_install.cmake
+**/Makefile
+**/bin
+**/*.o
+**/*.so
+**/cmake-build-debug
+**/*.cbp
+**/Testing
+.idea
