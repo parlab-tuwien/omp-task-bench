@@ -22,6 +22,8 @@ The *OMPTB* benchmark suite has been confirmed to function as intended for the f
 - `tasklib`: `gcc` (11.2.0, 12.1.0)
 - `taskbenchmark`: `gcc` (11.2.0, 12.1.0), `clang` (14.0.4), `aocc` (3.2.0), `pgcc` (22.5), `icc` (2021.7.0)
 
+This work is licensed under the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.html).
+
 ## Publications
 
 - **A Quantitative Analysis of OpenMP Task Runtime Systems** (link TBD) - Sascha Hunold, Klaus Kraßnitzer / Bench 2022 
