@@ -59,6 +59,6 @@ $ make
 
 After building `taskbenchmark`, the executable `omp_bench` is found in `taskbenchmark/bin/omp_bench`
 
-## Acknoledgements
+## Acknowledgements
 
 The authors would like to thank Lukas Briem ([@briemelchen](https://github.com/briemelchen)) for their contributions to this work.
