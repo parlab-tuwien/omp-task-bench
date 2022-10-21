@@ -1,4 +1,6 @@
 /*
+  Copyright (C) 2022 Lukas Briem
+
   This file is part of OMPTB.
  
   OMPTB is free software: you can redistribute it and/or modify
