@@ -61,4 +61,4 @@ After building `taskbenchmark`, the executable `omp_bench` is found in `taskbenc
 
 ## Acknowledgements
 
-The authors would like to thank Lukas Briem ([@briemelchen](https://github.com/briemelchen)) for their contributions to this work.
+The authors would like to thank Lukas Briem ([@briemelchen](https://github.com/briemelchen)) for the contributions to this work.
