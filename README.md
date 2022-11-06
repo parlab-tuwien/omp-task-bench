@@ -1,3 +1,5 @@
+![OMTB Banner](./.github/omtb_banner_bo.png)
+
 # OMPTB Benchmark Suite
 
 Although OpenMP is heavily used to parallelize for-loops, it also supports
